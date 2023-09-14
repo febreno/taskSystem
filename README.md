@@ -1,5 +1,5 @@
 # taskSystem
-manager tasks for users
+manage tasks for users
 
 ```mermaid
 classDiagram
