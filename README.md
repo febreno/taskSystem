@@ -1,5 +1,5 @@
 # taskSystem
-manage tasks for users with swagger, ORM, postgres
+manage tasks for users in API .NET core with swagger, ORM, postgres.  
 
 | Endpoints | Route  |
 |---|---|
