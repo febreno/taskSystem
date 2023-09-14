@@ -8,6 +8,14 @@ manage tasks for users with swagger, ORM, postgres
 - PUT /api/User/{id}
 - DELET /api/User/{id}
 
+  | Endpoints | Route  |
+|---|---|
+| GET | **/listCars** |
+| POST | **/api/User** |
+| GET | **/api/User/{id}** |
+| PUT | **/api/User/{id}** |
+| DELETE | **/api/User/{id}** |
+
 ```mermaid
 classDiagram
     class UserModel {
