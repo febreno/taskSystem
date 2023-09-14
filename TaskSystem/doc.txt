@@ -1,0 +1,22 @@
+NEW PROJECT
+ASP.NET Core Web API
+
+ORM
+ASP.NET Core Web API 6.0.0
+
+packages
+Microsoft.EntityFrameworkCore 6.0.0
+Microsoft.EntityFrameworkCore.Design 6.0.0
+Microsoft.EntityFrameworkCore.SqlServer 6.0.0
+Microsoft.EntityFrameworkCore.Tools 6.0.0
+
+model > class
+controllers > API Contrller - Empty
+
+SQL
+install SQL Server Express
+install SSMS (SQL Server Management Studio)
+
+PACKAGE MANAGER CONSOLE
+Add-Migration InitialDB -Context TaskSystemDBContext (install)
+Update-Database -Context TaskSystemDBContext (run)
